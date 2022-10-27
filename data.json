@@ -1,0 +1,110 @@
+[
+    {
+        "id":1, 
+        "nombre":"Remera Nirvana", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/nirvana.png"},
+    {
+        "id":2 , 
+        "nombre":"Remera Metallica", 
+        "precio":700, 
+        "stock":20, 
+        "img": "assets/img/metallica.png"},
+    {
+        "id":3 , 
+        "nombre":"Remera AC/DC", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/acdc.png"},
+    {
+        "id":4 , 
+        "nombre":"Remera Guns N' Roses", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/guns.png"},
+    {
+        "id":5 , 
+        "nombre":"Remera Aerosmith", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/aer.png"},
+    {
+        "id":6 , 
+        "nombre":"Remera Bon Jovi", 
+        "precio":700, 
+        "stock":20, 
+        "img": "assets/img/bj.png"}, 
+    {
+        "id":7 , 
+        "nombre":"Canguro Nirvana", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/nirvanaH.jpg"}, 
+    {
+        "id":8 , 
+        "nombre":"Canguro AC/DC", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/acdcH.jpg"}, 
+    {
+        "id":9 , 
+        "nombre":"Canguro Radiohead", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/radiH.jpg"}, 
+    {
+        "id":10 , 
+        "nombre":"Canguro Queen", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/queenH.jpg"}, 
+    {
+        "id":11 , 
+        "nombre":"Canguro Ramones", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/ramH.jpg"}, 
+    {
+        "id":12 , 
+        "nombre":"Canguro Led Zeppelin", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/zepH.jpg"},
+    {
+        "id":13 , 
+        "nombre":"Taza Green Day", 
+        "precio":300, 
+        "stock":20, 
+        "img": "assets/img/greendaymug.jpg"}, 
+    {
+        "id":14 , 
+        "nombre":"Taza Iron Maiden", 
+        "precio":300, 
+        "stock":20, 
+        "img": "assets/img/irmaidenmug.jpg"}, 
+    {
+        "id":15 , 
+        "nombre":"Taza Metallica", 
+        "precio":300, 
+        "stock":20, 
+        "img": "assets/img/metmug.jpg"},
+    {
+        "id":16 , 
+        "nombre":"Taza My Chemical.R", 
+        "precio":300, 
+        "stock":20, 
+        "img": "assets/img/mcrmug.jpg"}, 
+    {
+        "id":17 , 
+        "nombre":"Taza Nirvana", 
+        "precio":300, 
+        "stock":20, 
+        "img": "assets/img/nirmug.jpg"}, 
+    {
+        "id":18 , 
+        "nombre":"Taza Aerosmith", 
+        "precio":300, 
+        "stock":20, 
+        "img": "assets/img/aermug.jpg"}
+]

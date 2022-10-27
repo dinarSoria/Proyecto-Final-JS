@@ -1,0 +1,124 @@
+/*Logo*/
+.navbar img {
+    width: 100px;
+    border-radius: 12px
+}
+
+/*Inicio*/
+.link {
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+
+
+
+
+
+/*margen btn agregar cart*/
+.btn {
+    margin: 40px;
+}
+
+
+/*Productos
+.subtitulos {
+    padding: 20px;
+    text-align: center;
+}
+
+.subtitulos::before {
+    position: absolute;
+    font-family: 'Bodoni Moda', serif;
+    font-family: 200px;
+    content: "";
+    width: 4px;
+    height: 50px;
+    background-color: rgb(116, 4, 4);
+    left: -20px;
+    top: 50%;
+    transform: translateY(-50%);
+}*/
+
+.subtitulos{
+        color: rgb(116, 4, 4);
+        padding: 20px;
+        text-align: center;
+        font-family: 'Bodoni Moda', serif;
+        font-size: 40px;
+        text-transform: uppercase;
+        font-weight: 600;
+        text-shadow: 2px 1px black;
+    }
+
+
+.img {
+    width: 220px;
+    height: 50%;
+    
+}
+
+#header {
+    background: url(../assets/img/2500.jpg) top/cover no-repeat;
+}
+
+.text-h {
+    font-size: 120px;
+    background-color: rgb(107, 107, 107);
+    padding: 5px 5px;
+    border-radius: 25px;
+}
+
+#btn-header {
+    background-color: white;
+    font-size: 20px;
+    padding: 10px 28px;
+    border-radius: 25px;
+    border: 2px solid rgb(172, 168, 168);
+}
+
+#btn-header:hover {
+    background-color: rgb(116, 4, 4);
+    color: white;
+    border-color: rgb(116, 4, 4);
+
+}
+
+.text-n{
+    color: gray;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px black;
+    padding: 5px;
+}
+
+.text-p{
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center; 
+}
+
+.btnBorrar{
+    font-size: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid rgb(172, 168, 168);
+}
+
+.formlab{
+    background-color: rgb(227, 224, 224);
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-enviar{
+    font-size: 16px;
+    border-radius: 10px;
+}
