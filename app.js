@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
 })
 
 
-fetch("/data.json")
+fetch("data.json")
 .then((res)=>res.json())
 .then((data)=>{
   data.forEach((producto)=>{
@@ -42,7 +42,7 @@ function añadirProductoAlCart (evento) {
 function renderizarCarrito(){
     carritoId.textContent = "";
     const carritoSinDuplicados = [...new Set(carrito)];
-  fetch("/data.json")
+  fetch("data.json")
   .then((res)=>res.json())
   .then((data)=>{
      carritoSinDuplicados.forEach((item) => {
